@@ -7,6 +7,10 @@
   
 }
 
+.activeLink{
+  color: #892be2b2;
+}
+
 p{
   font-size: 20px;
   padding-left: 15px;
@@ -33,4 +37,15 @@ a:hover{
 
 footer{
   background-color: #f8ecec;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.aside{
+  background-color: #f6f6f6;
+}
+
+.activeTab{
+  color: #892be2b2;
 }
